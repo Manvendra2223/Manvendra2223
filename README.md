@@ -1,13 +1,28 @@
 ### Hi 👋, I'm Manvendra Singh
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Manvendra2223" />
+<br>
 
-<img alt="top langs" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra2223&layout=compact" />
+<div align="center">
 
----
+  <img
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Manvendra2223&show_icons=true&theme=dark"
+    width="45%"
+    style="margin-right: 30px;"
+  />
+
+  <img
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra2223&layout=compact&theme=dark"
+    width="45%"
+    style="margin-left: 30px;"
+  />
+
+</div>
+
 <br><br>
 
-<div align="left">
+<div align="center">
 
   <img
     alt="GitHub Streak"
@@ -17,4 +32,11 @@
 
 </div>
 
-![Snake animation](./github-contribution-grid-snake.svg)
+<br><br>
+
+<div align="center">
+
+  ![Snake animation](./github-contribution-grid-snake.svg)
+
+</div>
+
