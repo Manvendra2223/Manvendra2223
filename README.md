@@ -14,3 +14,5 @@
   />
 
 </div>
+
+![Snake animation](./github-contribution-grid-snake.svg)
