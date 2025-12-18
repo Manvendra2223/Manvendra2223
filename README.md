@@ -1,7 +1,12 @@
-<h2 align="center">Hi 👋, I'm Manvendra Singh</h2>
-<p align="center"><b>B.Tech CSE | Python • AI/ML • Web Development</b></p>
+<h1 align="center">Hi 👋, I'm Manvendra Singh</h1>
 
-<br>
+<p align="center">
+  <b>B.Tech CSE | Python • AI/ML • Web Development</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manvendra2223&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
@@ -10,13 +15,11 @@
 <div align="center">
 
   <img
-    alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api?username=Manvendra2223&show_icons=true&theme=dark&hide_border=true"
     width="45%"
   />
 
   <img
-    alt="Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra2223&layout=compact&theme=dark&hide_border=true"
     width="45%"
   />
@@ -32,7 +35,6 @@
 <div align="center">
 
   <img
-    alt="GitHub Streak"
     src="https://streak-stats.demolab.com?user=Manvendra2223&theme=dark&hide_border=true&ring=FACC15&fire=F97316&currStreakLabel=FACC15"
     width="60%"
   />
@@ -43,12 +45,21 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,flask,sqlite,git,github,vscode" />
+</p>
+
+<br>
+
+---
+
 ## 🧊 3D Contribution Graph
 
 <div align="center">
 
   <img
-    alt="3D Contributions"
     src="./profile-3d-contrib/profile-green-animate.svg"
     width="90%"
   />
@@ -71,7 +82,22 @@
 
 ---
 
-### ⭐ Keep Building • Keep Learning • Stay Consistent ⭐
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:manvendra22x@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/manvendra-singh-ab82422a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">⭐ Keep Building • Keep Learning • Stay Consistent ⭐</h3>
+
+
 
 
 
