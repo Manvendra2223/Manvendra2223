@@ -7,5 +7,4 @@
 
 ---
 
-<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Manvendra2223&theme=dark&background=0D1117&ring=FACC15&fire=F97316&currStreakLabel=FACC15&sideLabels=FFFFFF&dates=9CA3AF&stroke=1F2937)](https://git.io/streak-stats)
