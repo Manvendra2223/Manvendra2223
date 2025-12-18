@@ -3,7 +3,10 @@
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Manvendra2223" />
 <img alt="top langs" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra2223&layout=compact" />
 
-<br/><br/><br/><br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 
