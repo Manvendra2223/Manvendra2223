@@ -59,7 +59,7 @@
 <div align="center">
 
   <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
+    src="./profile-3d-contrib/profile-gitblock.svg"
     width="90%"
   />
 
