@@ -35,7 +35,7 @@
 <div align="center">
 
   <img
-    src="https://streak-stats.demolab.com?user=Manvendra2223&theme=dark&hide_border=true&ring=FACC15&fire=F97316&currStreakLabel=FACC15"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=Manvendra2223&theme=dark&hide_border=true&ring=FACC15&fire=F97316&currStreakLabel=FACC15"
     width="60%"
   />
 
@@ -43,7 +43,6 @@
 
 <br><br>
 
----
 
 ## 🛠️ Tech Stack
 
