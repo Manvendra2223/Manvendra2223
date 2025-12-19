@@ -35,7 +35,7 @@
 <div align="center">
 
   <img
-    src="https://streak-stats.demolab.com?user=Manvendra2223&theme=dark&hide_border=true&ring=FACC15&fire=F97316&currStreakLabel=FACC15"
+    src="https://streak-stats.demolab.com?user=Manvendra2223&theme=white&hide_border=true&ring=FACC15&fire=F97316&currStreakLabel=FACC15"
     width="60%"
   />
 
