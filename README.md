@@ -30,7 +30,7 @@
 
 ---
 
-### 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
