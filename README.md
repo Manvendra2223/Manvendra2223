@@ -10,7 +10,7 @@
 
 ---
 
-## 📊 GitHub Overview
+### 📊 GitHub Overview
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🔥 Contribution Streak
+### 🔥 Contribution Streak
 
 <div align="center">
 
