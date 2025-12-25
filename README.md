@@ -15,15 +15,16 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Manvendra2223&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Manvendra2223&show_icons=true&theme=dark&hide_border=true" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra2223&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Manvendra2223&layout=compact&theme=dark&hide_border=true" />
     </td>
   </tr>
 </table>
 
 ---
+
 
 
 ### 🔥 Contribution Streak
