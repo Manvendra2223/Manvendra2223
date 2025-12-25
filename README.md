@@ -10,25 +10,21 @@
 
 ---
 
-### 📊 GitHub Overview 
+### 📊 GitHub Overview
 
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Manvendra2223&show_icons=true&theme=dark&hide_border=true"
-    width="45%"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra2223&layout=compact&theme=dark&hide_border=true"
-    width="45%"
-  />
-
-</div>
-
-<br><br>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Manvendra2223&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra2223&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ### 🔥 Contribution Streak
 
