@@ -75,18 +75,13 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-
   <img
     src="https://raw.githubusercontent.com/Manvendra2223/Manvendra2223/output/github-contribution-grid-snake.svg"
     width="95%"
     alt="Contribution Snake"
   />
-
 </div>
 
-<br>
-
----
 
 
 ## 📫 Connect With Me
