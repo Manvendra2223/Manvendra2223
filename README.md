@@ -10,42 +10,50 @@
 
 ---
 
-
-
-### 📊 GitHub Overview
+## 📊 GitHub Overview
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Manvendra2223&show_icons=true&theme=dark&hide_border=true"
-    width="400"
+    src="https://github-readme-stats.vercel.app/api?username=Manvendra2223&show_icons=true&theme=dark&hide_border=true"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Manvendra2223&theme=dark&hide_border=true"
+    width="48%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Manvendra2223&layout=compact&theme=dark&hide_border=true"
-    width="400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra2223&layout=compact&theme=dark&hide_border=true"
+    width="50%"
   />
 </p>
 
 ---
 
+## 🧊 3D Contribution Graph
 
-
-
-### 🔥 Contribution Streak
-
-<div align="center">
-
+<p align="center">
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app?user=Manvendra2223&theme=dark&hide_border=true&ring=FACC15&fire=F97316&currStreakLabel=FACC15"
-    width="60%"
+    src="./profile-3d-contrib/profile-gitblock.svg"
+    width="90%"
   />
+</p>
 
-</div>
+---
 
-<br><br>
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Manvendra2223/Manvendra2223/main/output/github-contribution-grid-snake-dark.svg"
+    width="95%"
+    alt="Contribution Snake"
+  />
+</p>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -53,36 +61,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,flask,sqlite,git,github,vscode" />
 </p>
 
-<br>
-
 ---
-
-## 🧊 3D Contribution Graph
-
-<div align="center">
-
-  <img
-    src="./profile-3d-contrib/profile-gitblock.svg"
-    width="90%"
-  />
-
-</div>
-
-<br><br>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Manvendra2223/Manvendra2223/output/github-contribution-grid-snake.svg"
-    width="95%"
-    alt="Contribution Snake"
-  />
-</div>
-
-
 
 ## 📫 Connect With Me
 
@@ -98,7 +77,9 @@
 
 ---
 
-<h3 align="center">⭐ Keep Building • Keep Learning • Stay Consistent ⭐</h3> 
+<h3 align="center">⭐ Keep Building • Keep Learning • Stay Consistent ⭐</h3>
+
+  
 
 
 
