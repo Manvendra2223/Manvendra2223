@@ -34,12 +34,13 @@
 
 ## 🧊 3D Contribution Graph
 
-<p align="center">
+<div align="center">
   <img
-    src="./profile-3d-contrib/profile-gitblock.svg"
+    src="https://raw.githubusercontent.com/Manvendra2223/Manvendra2223/main/profile-3d-contrib/profile-gitblock.svg?cacheBust=1"
     width="90%"
+    alt="3D Contribution Graph"
   />
-</p>
+</div>
 
 ---
 
@@ -78,6 +79,7 @@
 ---
 
 <h3 align="center">⭐ Keep Building • Keep Learning • Stay Consistent ⭐</h3>
+
 
   
 
