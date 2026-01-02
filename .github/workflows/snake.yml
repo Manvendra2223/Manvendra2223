@@ -10,6 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # ✅ REQUIRED: checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -24,6 +28,7 @@ jobs:
           branch: main
           add: "output"
           message: "Update contribution snake"
+
 
 
 
