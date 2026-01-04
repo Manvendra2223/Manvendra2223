@@ -12,11 +12,9 @@
 
 ## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manvendra2223&show_icons=true&theme=dark&hide_border=true)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Manvendra2223&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra2223&layout=compact&theme=dark&hide_border=true)
 
 
 
