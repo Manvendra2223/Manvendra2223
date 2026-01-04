@@ -18,7 +18,7 @@
     width="48%"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Manvendra2223&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Manvendra2223&theme=dark&hide_border=true"
     width="48%"
   />
 </p>
@@ -30,7 +30,6 @@
   />
 </p>
 
----
 
 ## 🧊 3D Contribution Graph
 
