@@ -11,18 +11,11 @@
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Overview & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manvendra2223&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Manvendra2223&theme=dark&hide_border=true" width="48%" />
+  <img src="https://raw.githubusercontent.com/Manvendra2223/Manvendra2223/main/metrics.svg" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra2223&layout=compact&theme=dark&hide_border=true&langs_count=6" width="50%" />
-</p>
-
-
 
 ## 🧊 3D Contribution Graph
 
