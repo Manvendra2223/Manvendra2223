@@ -19,10 +19,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra2223&layout=donut&theme=dark&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra2223&layout=compact&theme=dark&hide_border=true&langs_count=6" width="50%" />
 </p>
 
----
+
 
 ## 🧊 3D Contribution Graph
 
