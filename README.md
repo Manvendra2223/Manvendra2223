@@ -11,11 +11,10 @@
 
 ---
 
-## 📊 GitHub Overview & Languages
+## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Manvendra2223/Manvendra2223/main/metrics.svg" />
-</p>
+![Metrics](https://raw.githubusercontent.com/Manvendra2223/metrics/main/github-metrics.svg)
+
 
 ## 🧊 3D Contribution Graph
 
