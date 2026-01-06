@@ -11,9 +11,13 @@
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Overview
 
-![Metrics](https://raw.githubusercontent.com/Manvendra2223/metrics/main/github-metrics.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manvendra2223&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Manvendra2223&theme=dark&hide_border=true" width="48%" />
+</p>
+
 
 
 ## 🧊 3D Contribution Graph
