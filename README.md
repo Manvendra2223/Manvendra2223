@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manvendra Singh</h1>
 
 <p align="center">
-  <b>B.Tech CSE | Python • AI/ML • Web Development</b>
+  <b>B.Tech CSE | Python • AI/ML • Web Development</b><br>
+  <i>Actively seeking Internships & Learning Opportunities</i>
 </p>
 
 <p align="center">
@@ -12,16 +13,21 @@
 
 ## 📊 GitHub Overview
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Manvendra2223&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manvendra2223&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Manvendra2223&theme=dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra2223&layout=donut&theme=dark&hide_border=true" width="50%" />
+</p>
+
+---
 
 ## 🧊 3D Contribution Graph
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Manvendra2223/Manvendra2223/main/profile-3d-contrib/profile-gitblock.svg?cacheBust=1"
-    width="90%"
-    alt="3D Contribution Graph"
-  />
+  <img src="https://raw.githubusercontent.com/Manvendra2223/Manvendra2223/main/profile-3d-contrib/profile-gitblock.svg" width="90%" />
 </div>
 
 ---
@@ -29,11 +35,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Manvendra2223/Manvendra2223/main/output/github-contribution-grid-snake-dark.svg"
-    width="95%"
-    alt="Contribution Snake"
-  />
+  <img src="https://raw.githubusercontent.com/Manvendra2223/Manvendra2223/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </p>
 
 ---
@@ -43,6 +45,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,flask,sqlite,git,github,vscode" />
 </p>
+
+---
+
+## 🎯 What I'm Focused On
+- 🧠 Python for AI & Machine Learning  
+- 🌐 Full Stack Web Development (Flask)  
+- 📊 Data Structures & CS Fundamentals  
+- 🚀 Building real-world projects  
 
 ---
 
@@ -61,6 +71,7 @@
 ---
 
 <h3 align="center">⭐ Keep Building • Keep Learning • Stay Consistent ⭐</h3>
+
 
 
   
