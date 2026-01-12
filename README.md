@@ -25,14 +25,15 @@
 </p>
 
 
+
 ## 🧠 Top Languages
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra2223&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"
-    width="50%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra2223&layout=compact&theme=dark&hide_border=true&exclude_repo=github-readme-stats"
   />
 </p>
+
 
 
 
