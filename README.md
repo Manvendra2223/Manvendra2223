@@ -49,7 +49,8 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manvendra2223/Manvendra2223/output/github-contribution-grid-snake-dark.svg" width="95%" />
+ <img src="https://raw.githubusercontent.com/Manvendra2223/Manvendra2223/dist/github-contribution-grid-snake-dark.svg" />
+  
 </p>
 
 ---
