@@ -53,7 +53,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,flask,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,flask,sqlite,git,github,linux,vscode" />
 </p>
 
 ---
