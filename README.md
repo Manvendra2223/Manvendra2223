@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./gym.jpeg" alt="Gym training — consistency beyond code" width="420" />
+    <img src="./gym-banner.png" alt="Gym banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Manvendra Singh</h1>
