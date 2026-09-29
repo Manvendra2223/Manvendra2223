@@ -72,11 +72,7 @@ I'm a Computer Science student interested in Python, data analytics, and machine
   <img src="https://streak-stats.demolab.com?user=Manvendra2223&amp;theme=dark&amp;hide_border=true" width="48%" alt="GitHub contribution streak" />
 </p>
 
-## 🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra2223&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;exclude_repo=github-readme-stats" alt="Top languages" />
-</p>
+---
 
 ## 🧊 3D Contribution Graph
 
