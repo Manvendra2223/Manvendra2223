@@ -1,11 +1,5 @@
-<!-- Animated quote -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1500&amp;color=86EFAC&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Building+strength.+Building+skills.;One+rep.+One+commit.+One+day+at+a+time." alt="Building strength. Building skills. One rep. One commit. One day at a time." />
-</p>
-
-<!-- Horizontal banner -->
-<p align="center">
-  <img src="./gym-banner.png" alt="Dark gym banner" width="100%" />
+  <img src="./gym-banner-bold.gif" alt="Building strength. Building skills. One rep. One commit. One day at a time." width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Manvendra Singh</h1>
@@ -17,18 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:manvendra22x@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" />
-  </a>
-  <a href="https://www.linkedin.com/in/manvendra-singh-ab82422a5">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="https://github.com/Manvendra2223?tab=repositories">
-    <img src="https://img.shields.io/badge/My_Projects-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my projects" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Manvendra2223&amp;label=Profile%20Views&amp;color=15803d&amp;style=flat" alt="Profile views" />
 </p>
 
@@ -36,13 +18,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student interested in Python, data analytics, and machine learning. I enjoy exploring data, building useful applications, and learning through projects.
+I'm a Computer Science student exploring Python, data analytics, and machine learning. I enjoy learning through projects, working with data, and building useful applications.
 
-- 📊 Working on data analytics and dashboards with Python, SQL, and Power BI
+- 📊 Working on data analysis and dashboards with Python, SQL, and Power BI
 - 🧠 Learning machine learning with scikit-learn
 - 🌐 Building web applications with Flask
-- 🧩 Sharpening my data structures and algorithms fundamentals
-- 💼 Open to internship opportunities in data analytics, Python development, and AI/ML
+- 🧩 Strengthening my data structures and algorithms fundamentals
+- 💼 Open to internships in data analytics, Python development, and AI/ML
 
 ## 🛠️ Tech Stack
 
@@ -82,9 +64,9 @@ I'm a Computer Science student interested in Python, data analytics, and machine
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-Interested in discussing a project or an internship opportunity? Reach out!
+Have a project idea or an internship opportunity? Let's connect.
 
 <p align="center">
   <a href="mailto:manvendra22x@gmail.com">
@@ -101,4 +83,10 @@ Interested in discussing a project or an internship opportunity? Reach out!
 </p>
 
 <h3 align="center">⭐ Keep Building • Keep Learning • Stay Consistent ⭐</h3>
+
+---
+
+### ⚡ Fun Fact
+
+I lift weights and fix bugs — both take patience, consistency, and a few failed attempts. 💪💻
 
