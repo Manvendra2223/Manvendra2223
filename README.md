@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./gym-banner.PNG" alt="Gym banner" width="100%" />
+    <img src="./gym-banner.png" alt="Gym banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Manvendra Singh</h1>
