@@ -1,5 +1,11 @@
+<!-- Animated quote -->
 <p align="center">
-    <img src="./gym-banner.png" alt="Gym banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1500&amp;color=86EFAC&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Building+strength.+Building+skills.;One+rep.+One+commit.+One+day+at+a+time." alt="Building strength. Building skills. One rep. One commit. One day at a time." />
+</p>
+
+<!-- Horizontal banner -->
+<p align="center">
+  <img src="./gym-banner.png" alt="Dark gym banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Manvendra Singh</h1>
@@ -11,21 +17,42 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manvendra2223&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" alt="Profile views" />
+  <a href="mailto:manvendra22x@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" />
+  </a>
+  <a href="https://www.linkedin.com/in/manvendra-singh-ab82422a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://github.com/Manvendra2223?tab=repositories">
+    <img src="https://img.shields.io/badge/My_Projects-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my projects" />
+  </a>
 </p>
 
-## 🎯 What I'm Focused On
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manvendra2223&amp;label=Profile%20Views&amp;color=15803d&amp;style=flat" alt="Profile views" />
+</p>
 
-- 📊 Data Analytics & dashboards with Python, SQL & Power BI
-- 🧠 Machine Learning with scikit-learn
-- 🌐 Web Development with Flask
-- 🚀 Building projects & sharpening DSA fundamentals
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science student interested in Python, data analytics, and machine learning. I enjoy exploring data, building useful applications, and learning through projects.
+
+- 📊 Working on data analytics and dashboards with Python, SQL, and Power BI
+- 🧠 Learning machine learning with scikit-learn
+- 🌐 Building web applications with Flask
+- 🧩 Sharpening my data structures and algorithms fundamentals
+- 💼 Open to internship opportunities in data analytics, Python development, and AI/ML
 
 ## 🛠️ Tech Stack
+
+### Languages & Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,flask,sqlite,git,github,linux,vscode&amp;perline=6" alt="Python, C, C++, HTML, CSS, JavaScript, Flask, SQLite, Git, GitHub, Linux and VS Code" />
 </p>
+
+### Data Analytics & Machine Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
@@ -35,6 +62,8 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square" alt="Excel" />
 </p>
+
+---
 
 ## 📊 GitHub Overview
 
@@ -55,7 +84,11 @@
   <img src="https://raw.githubusercontent.com/Manvendra2223/Manvendra2223/main/profile-3d-contrib/profile-gitblock.svg" width="90%" alt="3D contribution graph" />
 </p>
 
-## 📫 Connect With Me
+---
+
+## 📫 Let's Connect
+
+Interested in discussing a project or an internship opportunity? Reach out!
 
 <p align="center">
   <a href="mailto:manvendra22x@gmail.com">
@@ -72,22 +105,4 @@
 </p>
 
 <h3 align="center">⭐ Keep Building • Keep Learning • Stay Consistent ⭐</h3>
-
----
-
-### ⚡ Fun Fact
-
-I lift weights and fix bugs — both take patience, consistency, and a few failed attempts. 💪💻
-
-
-
-  
-
-
-
-
-
-
-
-
 
