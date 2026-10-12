@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="./gym-banner-bold.gif" alt="Building strength. Building skills. One rep. One commit. One day at a time." width="100%" />
 </p>
@@ -56,10 +57,14 @@ I'm a Computer Science student exploring Python, data analytics, and machine lea
 
 ---
 
-## 🧊 3D Contribution Graph
+## 🌈 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manvendra2223/Manvendra2223/main/profile-3d-contrib/profile-3d-contrib/profile-gitblock.svg" width="90%" alt="3D contribution graph" />
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    width="100%"
+    alt="3D GitHub contribution graph - Night Rainbow theme"
+  />
 </p>
 
 ---
@@ -89,4 +94,5 @@ Have a project idea or an internship opportunity? Let's connect.
 ### ⚡ Fun Fact
 
 I lift weights and fix bugs — both take patience, consistency, and a few failed attempts. 💪💻
+
 
