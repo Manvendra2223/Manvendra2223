@@ -59,7 +59,7 @@ I'm a Computer Science student exploring Python, data analytics, and machine lea
 ## 🧊 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manvendra2223/Manvendra2223/main/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D contribution graph" />
+  <img src="https://raw.githubusercontent.com/Manvendra2223/Manvendra2223/main/profile-3d-contrib/profile-3d-contrib/profile-gitblock.svg" width="90%" alt="3D contribution graph" />
 </p>
 
 ---
