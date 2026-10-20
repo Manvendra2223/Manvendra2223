@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <img src="./gym-banner-bold.gif" alt="Building strength. Building skills. One rep. One commit. One day at a time." width="100%" />
 </p>
